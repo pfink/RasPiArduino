@@ -1,0 +1,6 @@
+{
+    "name": "framework-arduinoraspberry",
+    "description": "Arduino Wiring-based Framework (Raspberry based on RasPiArduino)",
+    "url": "https://github.com/pfink/RasPiArduino",
+    "version": "0.0.2-dev"
+}
